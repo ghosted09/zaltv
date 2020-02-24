@@ -134,7 +134,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
 
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="",Trans 7 HD
-https://etslive-2-vidio-com.akamaized.net/exp=1581041127~acl=/hls-b/ingest_734_*/*~hmac=ff6f0cbd95725e2998cbac70a51b2990adac1ca3d6ffc988a0c80cec98b5846d/hls-b/ingest_734_720p/index.m3u8
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="",Trans TV
 https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
@@ -143,10 +143,13 @@ https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1215711276_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="",Net TV
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+http://210.210.155.35/session/eb69559e-0197-11ea-a0e0-b82a72d63267/qwr9ew/s/s08/index.m3u8
 
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="",Net TV HD
 http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="",Net TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-language="Indonesian" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="",TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
